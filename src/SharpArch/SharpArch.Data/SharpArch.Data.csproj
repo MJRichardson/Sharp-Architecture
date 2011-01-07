@@ -70,6 +70,7 @@
     <Compile Include="NHibernate\Repository.cs" />
     <Compile Include="NHibernate\SessionFactoryAttribute.cs" />
     <Compile Include="NHibernate\SimpleSessionStorage.cs" />
+    <Compile Include="NHibernate\ThreadStaticSessionStorage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
